@@ -1,5 +1,4 @@
 ## GAN for bulk RNAseq
-<hr/>
 
 ##### - A practical application of generative adversarial networks for RNAseq data to predict the molecular progress of Alzheimer's disease
 
